@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DepthTest.shader" t="Include" />
+        <e p="Noise.cginc" t="Include" />
+        <e p="RaymarchingFog.shader" t="Include" />
+        <e p="Rotate.cs" t="Include" />
+      </e>
+      <e p="ConstantDistanceRaymarching.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_ConstantDistanceRaymarching.-829129001.00" t="ExcludeRecursive" />
+  </component>
+</project>
