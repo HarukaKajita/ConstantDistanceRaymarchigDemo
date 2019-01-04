@@ -1,4 +1,5 @@
-﻿
+
+
 ///ret : 0.0 - <1.0
 float rand(float n){return frac(sin(n) * 43758.5453123);}
 
